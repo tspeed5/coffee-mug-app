@@ -1,0 +1,2 @@
+class MugsController < ApplicationController
+end
